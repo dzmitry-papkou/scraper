@@ -1,0 +1,1 @@
+# Funcdamentals of AI (homework1)

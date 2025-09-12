@@ -1,0 +1,30 @@
+# Binaries
+bin/
+*.exe
+
+# Logs
+*.log
+logs/
+
+# Data files
+*.csv
+data/
+
+# Go
+vendor/
+*.mod
+*.sum
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# PID files
+.*.pid
+
+# Database
+*.sql.bak
+.DS_Store
+.DS_Store
