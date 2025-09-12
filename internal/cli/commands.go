@@ -122,12 +122,11 @@ func (c *Commander) showHelp() {
     fmt.Println("\n" + c.cyan("Analysis:"))
     fmt.Println("  stats        - Display statistics")
     fmt.Println("  analyze      - Run statistical analysis")
-    fmt.Println("  coverage     - Show database coverage")
     
     fmt.Println("\n" + c.cyan("Data:"))
     fmt.Println("  show [n]     - Show n recent posts")
     fmt.Println("  export       - Export data to CSV")
-    fmt.Println("  history      - Show scraping history")
+    //TODO: fmt.Println("  history      - Show scraping history")
     
     fmt.Println("\n" + c.cyan("Configuration:"))
     fmt.Println("  scrapers     - List available scrapers")
