@@ -10,6 +10,7 @@ A Hacker News scraper with statistical analysis capabilities built in Go.
 
 # Run CLI
 go run cmd/cli/main.go
+```
 
 ## Features
 
