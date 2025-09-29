@@ -1,4 +1,4 @@
-# Fundamentals of AI (Homework 1)
+# Fundamentals of AI
 
 A Hacker News scraper with statistical analysis capabilities built in Go.
 
