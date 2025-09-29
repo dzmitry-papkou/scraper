@@ -1,4 +1,4 @@
-# Fundamentals of AI
+# Data scraper
 
 A Hacker News scraper with statistical analysis capabilities built in Go.
 
